@@ -1,5 +1,9 @@
 /*
 Função de 
+
+
+
+
 */
 function selectionSort(vetor, fnComp) {
     let passadas = 0, comparacoes = 0, totalTrocas = 0
